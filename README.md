@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![Batch](https://img.shields.io/badge/Type-Batch%20%2F%20CMD-2D2D2D?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Stars](https://img.shields.io/github/stars/XDev-Code/unweave?style=social)
+![Stars](https://img.shields.io/github/stars/TheSourceAnalysis/unweave?style=social)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%2F%20Linux-blue)
 
 UNWEAVE detects and reverses the **NOISEWEAVE** obfuscation pattern — a name
